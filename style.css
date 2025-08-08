@@ -736,7 +736,7 @@ h1, h2, h3, h4, h5, h6 {
 .project-card:nth-child(2) .project-img { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=1470') center/cover no-repeat; }
 .project-card:nth-child(3) .project-img { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=1470') center/cover no-repeat; }
 .project-card:nth-child(4) .project-img { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=1471') center/cover no-repeat; }
-.project-card:nth-child(5) .project-img { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=1471') center/cover no-repeat; }
+.project-card:nth-child(5) .project-img { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://drishtikon.great-site.net/logo.jpg') center/cover no-repeat; }
 
 .project-overlay {
     position: absolute;
